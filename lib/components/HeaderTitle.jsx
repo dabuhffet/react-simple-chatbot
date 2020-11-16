@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import defaultTheme from '../theme';
 
 const HeaderTitle = styled.h2`
-  align-items: center;
+  text-align: center;
   font-size: ${({ theme }) => theme.headerFontSize};
 `;
 

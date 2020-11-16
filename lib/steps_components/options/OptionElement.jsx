@@ -10,7 +10,7 @@ const OptionElement = styled.button`
   display: flex;
   font-size: 14px;
   padding: 12px;
-
+  align: center;
   &:hover {
     opacity: 0.7;
   }
