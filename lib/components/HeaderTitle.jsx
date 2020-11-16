@@ -3,7 +3,8 @@ import defaultTheme from '../theme';
 
 const HeaderTitle = styled.h2`
   text-align: center;
-  align-items:center;
+  align-items: center;
+  margin:auto;
   font-size: ${({ theme }) => theme.headerFontSize};
 `;
 
